@@ -24,11 +24,11 @@ API_Project_Blog is a Django REST Framework-based API for managing a blog. It al
 
 ## API Endpoints
 - **Authentication**: /api/account/login (POST)
--**Register**: /api/account/register/ (POST)
--**List Blogs**: /api/index/ (GET)
--**Create Blog**: /api/index/blog/ (POST)
--**Update Blog**: /api/index/blog/ (PATCH)
--**Delete Blog**: /api/index/blog/ (DELETE)
+- **Register**: /api/account/register/ (POST)
+- **List Blogs**: /api/index/ (GET)
+- **Create Blog**: /api/index/blog/ (POST)
+- **Update Blog**: /api/index/blog/ (PATCH)
+- **Delete Blog**: /api/index/blog/ (DELETE)
 
 ## Contributing
 Contributions are welcome! Please feel free to open issues or submit pull requests.
