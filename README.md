@@ -23,7 +23,7 @@ API_Project_Blog is a Django REST Framework-based API for managing a blog. It al
 6. Access the API : Open your web browser and go to http://127.0.0.1:8000/api/index/
 
 ## API Endpoints
-Authentication: /api/account/login/ (POST)
+Authentication: /api/account/login (POST)
 Register: /api/account/register/ (POST)
 List Blogs: /api/index/ (GET)
 Create Blog: /api/index/blog/ (POST)
